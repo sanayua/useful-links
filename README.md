@@ -5,6 +5,6 @@
 
 ##### boilerplates
 - https://github.com/Armour/express-webpack-react-redux-typescript-boilerplate - react-ts-express
-- https://rokoroku.github.io/react-redux-typescript-boilerplate - react-ts-redux
+- https://github.com/rokoroku/react-redux-typescript-boilerplate - react-ts-redux
 - https://github.com/vikpe/react-webpack-typescript-starter - react-ts-webpack
 - https://github.com/microsoft/TypeScript-React-Starter - react, redux, typescript

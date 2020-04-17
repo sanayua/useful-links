@@ -2,6 +2,7 @@
 
 - https://swapi.co/ - 스타워즈 데이터를 리턴해주는 api
 - https://material.io/components/ - 디자인 가이드
+- https://helloworldjavascript.net/pages/285-async.html - JS 
 
 ##### boilerplates
 - https://github.com/Armour/express-webpack-react-redux-typescript-boilerplate - react-ts-express
